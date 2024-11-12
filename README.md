@@ -102,7 +102,7 @@ Supported Length for `sprintf`:
 
 The `sprintf` functions support partial and full formatting, including specifiers, flags, width and precision.
 
-### Special functions for string processing
+### Special string handling functions
 
 Additional functions for string processing, inspired by the `String` class in C#:
 
